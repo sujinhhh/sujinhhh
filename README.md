@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thank you for visiting Sujin's Awesome Profile.👋
 
 <!--
 **sujinhhh/sujinhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
