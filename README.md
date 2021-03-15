@@ -3,11 +3,11 @@
 ![I am GitHub Readme Generator's creator](https://sujinhhh.github.io/deploy/profile.png)
 
 
-#### 😃 Here's something about me ● • .
+### 😃 Here's something about me ● • .
 
-#### I have had experience working as a Web Designer in Korea for 2years. 
-### I love learning something new
-#### 🌱 Currently I learning Web developing learning Javascript, React, React Native, CSS, HTML
+🟢 I have had experience working as a Web Designer in Korea for 2years. 
+🟣 I love learning something new
+🌱 Currently I learning Web developing learning Javascript, React, React Native, CSS, HTML
 
 
 #### I have knowledge of REACT / REACT NATIVE/ JS / HTML / CSS / WORDPRESS / PHOTOSHOP / ILLUSTRATOR
