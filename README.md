@@ -1,5 +1,5 @@
 ## Hi there 👋, My name is Sujin Lee
-#### Welcome to my Github page
+# Welcome to my Github page
 ![I am GitHub Readme Generator's creator](https://sujinhhh.github.io/deploy/pine.jpg)
 
 
