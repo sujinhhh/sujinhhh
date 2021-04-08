@@ -2,7 +2,7 @@
   <section>
     <div>
       <img
-        src="https://images.unsplash.com/photo-1598406506391-b3e522c3dc1f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1836&q=80"
+        src="https://sujinhhh.github.io/deploy/coke.png"
         alt=""
       />
     </div>
