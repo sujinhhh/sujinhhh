@@ -2,7 +2,7 @@
   <section>
     <div>
       <img
-        src="https://sujinhhh.github.io/deploy/coke.png"
+        src="https://sujinhhh.github.io/deploy/awesome.png"
         alt=""
       />
     </div>
