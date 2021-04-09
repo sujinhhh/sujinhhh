@@ -5,7 +5,7 @@
 
 #### I am passionate all things programming and I am curruntly looking for a opportunity to show my passion 🔥 🥳 🏋️‍♀️.  
  
-<hr>
-### I am experience with ...  
-<hr>
+
+### I am experience with ...  <hr>
+
 #### JavaScript, Html, Css, React, React Native, WordPress, Photoshop, Illustrator
