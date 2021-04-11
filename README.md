@@ -14,5 +14,5 @@
 
 
 >  
-<img src="https://sujinhhh.github.io/img/awesome.png" width="500" alt="" />
+<img src="https://sujinhhh.github.io/img/awesome.png" width="600" alt="" />
 
