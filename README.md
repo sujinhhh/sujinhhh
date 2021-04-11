@@ -5,7 +5,7 @@
 # 👐 Hi, My name is Sujin,
 
 ### 🔥 Thank you for visiting my Github Page
-### 🔥 I am passionate all things about programming and I am curruntly looking for a opportunity to show my passion   <hr> 
+### 🔥 I am passionate all things about programming and I am curruntly looking for a opportunity to show my passion!  <hr> 
 
 
 ## ☑️  Skills 
@@ -20,8 +20,8 @@
 <img src="https://sujinhhh.github.io/img/awesome.png" width="600" alt="" /> <hr> <br> 
 
 
-### 🟣  Other Programs || languages || frameworks.. that I used at least one time of my projects. 👉
+### 🟣  Other Programs || languages || frameworks.. that I used at least one time of my projects. 
 
 ```
- 👉 React Native, Firebase, Adobe Illustrator, Figma, Davinci Resolve,
+ 👉  React Native, Firebase, Adobe Illustrator, Figma, Davinci Resolve,
 ```
