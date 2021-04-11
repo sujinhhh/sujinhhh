@@ -1,6 +1,6 @@
 <img src="https://sujinhhh.github.io/img/ref.png" width='700' alt="" /> 
 
-> I got this thankyou letter from former work manager. I think this is good for my reference lol 😆 <br>
+> I got this thankyou card from former work manager. I think this is good for my reference lol 😆 <br>
 
 #  Hi, My name is Sujin,
 ### Thank you for visiting my Github Page
