@@ -1,4 +1,4 @@
-<img src="https://sujinhhh.github.io/img/ref.png" width='100%' alt="" /> 
+<img src="https://sujinhhh.github.io/img/ref.png" width='80%' alt="" /> 
 
 >  Reference from former work manager 😆 <br>
 
