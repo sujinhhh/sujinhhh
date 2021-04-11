@@ -2,10 +2,10 @@
 
 > I got this thankyou card from former work manager. I think this is good for my reference lol 😆 <br>
 
-#  Hi, My name is Sujin,
+# 👐 Hi, My name is Sujin,
 
-### Thank you for visiting my Github Page
-### I am passionate all things about programming and I am curruntly looking for a opportunity to show my passion 🔥 🥳 🏋️‍♀️. <hr> 
+### 🔥 Thank you for visiting my Github Page
+### 🔥 I am passionate all things about programming and I am curruntly looking for a opportunity to show my passion   <hr> 
 
 
 ## ☑️  Skills 
@@ -23,5 +23,5 @@
 ### 🟣  Other Programs || languages || frameworks.. that I used at least one time of my projects. 👉
 
 ```
- React Native, Firebase, Adobe Illustrator, Figma, Davinci Resolve,
+ 👉 React Native, Firebase, Adobe Illustrator, Figma, Davinci Resolve,
 ```
