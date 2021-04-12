@@ -18,16 +18,14 @@
 
 
 
-<br><br>
-
-> I got this thankyou card from former work manager. I think this is good for my reference lol 😆 <br>
-<img src="https://sujinhhh.github.io/img/ref.png" width='700' alt="" /> 
-
-
-
-
+<br> <hr> 
 <br>
 
->  
-<img src="https://sujinhhh.github.io/img/awesome.png" width="600" alt="" /> <hr> <br> 
+> I got this thankyou card from former work manager. I think this is good for my reference lol 😆 <br>
+
+<img src="https://sujinhhh.github.io/img/ref.png" width='700' alt="" /><img src="https://sujinhhh.github.io/img/awesome.png" width="400" alt="" />
+
+
+
+
 
