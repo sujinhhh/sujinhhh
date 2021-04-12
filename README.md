@@ -21,7 +21,6 @@
 <br> <hr> 
 <br>
 
-> I got this thankyou card from former work manager. I think this is good for my reference lol 😆 <br>
 
 <img src="https://sujinhhh.github.io/img/ref.png" width='700' alt="" />
 
