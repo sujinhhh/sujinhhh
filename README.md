@@ -1,6 +1,6 @@
 # 👐 Hi, My name is Sujin,
 
-### 🔥 Thank you for visiting my Github Page <img src="https://sujinhhh.github.io/img/awesome.png" width="400" alt="" /> 
+### 🔥 Thank you for visiting my Github Page.        <img src="https://sujinhhh.github.io/img/awesome.png" width="400" alt="" /> 
 ### 🔥 I am passionate all things about programming and I am curruntly looking for a opportunity to show my passion!  <hr> 
 
 <br><br>
