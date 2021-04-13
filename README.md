@@ -2,7 +2,7 @@
 
 
 ### 🔥 Thank you for visiting my Github Page.        <img src="https://sujinhhh.github.io/img/awesome.png" width="400" alt="" /> 
-### 🔥 I am passionate all things about programming and I am curruntly looking for a opportunity to show my passion!  <hr> 
+### 🔥 I am passionate all things about programming and I am currently looking for an opportunity to show my passion!  <hr> 
 
 <br><br>
 ## 💎 Skills
