@@ -14,7 +14,7 @@
 ### 💎  Other Programs || languages || frameworks.. that I used at least one time of my projects. 
 
 ```
- 👉  React Native, Firebase, Adobe Illustrator, Figma, Davinci Resolve,
+ 👉  React, React Native, Firebase, Adobe Illustrator, Figma, Davinci Resolve,
 ```
 
 
