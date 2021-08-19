@@ -22,8 +22,5 @@
 <br> <hr> 
 <br>
 
-<p align='center' >
-<img src="https://sujinhhh.github.io/img/ref.png" width='700' alt="" />
-</p>
 
 
